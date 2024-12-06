@@ -145,7 +145,3 @@ Voici une liste d’analyses à réaliser sur le jeu de données Airbnb (voir le
 - **Code** : Un notebook Python bien documenté contenant toutes les analyses.
 - **Visualisations** : Graphiques et cartes pour les analyses clés.
 - **Rapport** : Un résumé des insights tirés des analyses, avec des recommandations concrètes.
-
----
-
-Cette liste offre une variété de tâches pour couvrir l’ensemble des compétences d’un data analyst, tout en explorant un jeu de données réaliste et riche en informations.
