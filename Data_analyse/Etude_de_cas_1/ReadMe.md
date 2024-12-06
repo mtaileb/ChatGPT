@@ -1,5 +1,5 @@
 ### **Analyse étendue pour le jeu de données Airbnb**
-Voici une liste détaillée d’analyses que les participants peuvent réaliser sur le jeu de données Airbnb. Ces analyses couvrent des aspects descriptifs, exploratoires, géographiques, et prédictifs.
+Voici une liste détaillée d’analyses à réaliser sur le jeu de données Airbnb (voir le fichier Airbnb_open_dataset.zip dans ce même dossier). Ces analyses couvrent des aspects descriptifs, exploratoires, géographiques, et prédictifs.
 
 ---
 
