@@ -75,7 +75,7 @@ Je veux que tu sois un programmeur Python. Peux-tu écrire des tests unitaires p
 ---
 
 ## Prompts pour les workflows d’analyse de données et visualisation  
-# Analyse SQL  
+### Analyse SQL  
 Créer des tables  
 Je veux que tu sois un générateur de données. Peux-tu écrire une requête SQL qui crée une table {nom de la table} avec les colonnes {noms des colonnes} ? Inclure les contraintes et index pertinents.
 
